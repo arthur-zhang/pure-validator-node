@@ -1,0 +1,40 @@
+{
+  "name": "pure-validator-node",
+  "description": "Validate params for node",
+  "version": "0.1.7",
+  "keywords": [
+    "validator"
+  ],
+  "author": {
+    "name": "zhangya_no1@qq.com"
+  },
+  "_npmUser": {
+    "name": "zhangya_no1",
+    "email": "zhangya_no1@qq.com"
+  },
+  "dependencies": {
+    "pure-validator": "0.1.6"
+  },
+  "maintainers": [
+    {
+      "name": "zhangya_no1",
+      "email": "zhangya_no1@qq.com"
+    }
+  ],
+  "_id": "pure-validator-node@0.1.5",
+  "scripts": {},
+  "_shasum": "95a7671744b0e40575f927fffdfdd83ecea1b87c",
+  "_from": "pure-validator-node@",
+  "_npmVersion": "1.4.28",
+  "dist": {
+    "shasum": "3de442306994ddbc2be5f70eb1a9b4d979d2031c",
+    "tarball": "http://registry.npmjs.org/pure-validator-node/-/pure-validator-node-0.1.4.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/pure-validator-node/-/pure-validator-node-0.1.4.tgz",
+  "homepage": "https://github.com/arthur-zhang/pure-validator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthur-zhang/pure-validator.git"
+  }
+}
