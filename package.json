@@ -1,7 +1,7 @@
 {
   "name": "pure-validator-node",
   "description": "Validate params for node",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "keywords": [
     "validator"
   ],
@@ -13,7 +13,7 @@
     "email": "zhangya_no1@qq.com"
   },
   "dependencies": {
-    "pure-validator": "0.1.6"
+    "pure-validator": "0.1.7"
   },
   "maintainers": [
     {
@@ -32,9 +32,9 @@
   },
   "directories": {},
   "_resolved": "https://registry.npmjs.org/pure-validator-node/-/pure-validator-node-0.1.4.tgz",
-  "homepage": "https://github.com/arthur-zhang/pure-validator",
+  "homepage": "https://github.com/arthur-zhang/pure-validator-node",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arthur-zhang/pure-validator.git"
+    "url": "https://github.com/arthur-zhang/pure-validator-node.git"
   }
 }
